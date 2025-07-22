@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+watchdog
+psutil
+aiofiles
+httpx
+python-multipart
